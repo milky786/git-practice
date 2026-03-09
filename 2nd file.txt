@@ -3,6 +3,6 @@ this is the 2nd line for the branch that i have created
 so now this is the 3rd line i created after i uploaded the file to gihub repo 
 This is the 4th line that i have now created inside GitHub and i pulled it to git
 once i pulled it to git this is the 5th line that i will send to GitHub
-
+im making changes within git hub and will pull this fill lets see
 
 
